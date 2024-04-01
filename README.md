@@ -18,6 +18,4 @@ Hi there 👋<br>I'm a Full-Stack Developer working in Pune, India.
 ---
 [![](https://visitcount.itsvg.in/api?id=khairnarbhagyashree&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Nodejs Course Certificate](https://github.com/khairnarbhagyashree/khairnarbhagyashree/assets/126438529/de127b5a-1a90-42f2-868e-a0a1c7f3fae1)
-![JavaScript Certificate](https://github.com/khairnarbhagyashree/khairnarbhagyashree/assets/126438529/0a9d14db-d41f-47af-814d-53671102cf76)
 
