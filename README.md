@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm a Full-Stack Developer working in Pune, India.
+Hi there 👋<br>I'm Bhagyashri, a passionate fresher in the realm of React development. I find immense joy in crafting interactive and user-centric web applications using the power of React.
 
 
 ## 🌐 Socials:
