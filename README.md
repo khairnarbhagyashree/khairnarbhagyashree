@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Bhagyashri, a passionate fresher in the realm of React development. I find immense joy in crafting interactive and user-centric web applications using the power of React.
+Hi there 👋<br>I'm Bhagyashri, a passionate React developer. I find immense joy in crafting interactive and user-centric web applications using the power of Reactjs.
 
 
 ## 🌐 Socials:
